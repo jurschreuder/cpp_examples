@@ -1,0 +1,21 @@
+We're giving my object some things to own..
+Some memory as an array of strings.
+But fear not the std::vector will handle this!
+And a file handle.
+Don't forget to close this, your computer only has so many!
+We're giving my object some things to own..
+Some memory as an array of strings.
+But fear not the std::vector will handle this!
+And a file handle.
+Don't forget to close this, your computer only has so many!
+We're giving my object some things to own..
+Some memory as an array of strings.
+But fear not the std::vector will handle this!
+And a file handle.
+Don't forget to close this, your computer only has so many!
+We're giving my object some things to own..
+Some memory as an array of strings, and a file handle.
+But fear not the std::vector and the ~destructor will handle this!
+We're giving my object some things to own..
+Some memory as an array of strings, and a file handle.
+But fear not the std::vector and the ~destructor will handle this!
